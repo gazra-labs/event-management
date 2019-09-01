@@ -33,6 +33,11 @@ npm install
 php artisan migrate
 ```
 
+```
+php artisan key:generate
+
+```
+
 ### Some other helping commands for Laravel
 
 To start server 
