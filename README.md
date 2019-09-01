@@ -1,5 +1,3 @@
-# event-management
-Simple Event Management with Laravel, VueJS and Full Calendar
 # Simple Event Management 
 
 Hello guys, This is an application to manage date events using **FullCalendar**, **Laravel** and **VueJS**.  
