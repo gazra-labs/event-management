@@ -33,3 +33,28 @@ npm install
 php artisan migrate
 ```
 
+### Some other helping commands for Laravel
+
+To start server 
+```
+php artisan serve
+```
+To clear cache and config
+
+```
+php artisan cache:clear
+```
+
+```
+php artisan config:clear
+```
+
+```
+php artisan config:cache
+```
+
+
+
+
+
+
