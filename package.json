@@ -38,7 +38,7 @@
         "@fullcalendar/vue": "^4.3.1",
         "babel-runtime": "^6.26.0",
         "font-awesome": "^4.7.0",
-        "jQuery": "^1.7.4",
+        "jQuery": "^3.4.1",
         "moment": "^2.24.0",
         "vue-full-calendar": "^2.7.0"
     }
